@@ -1,6 +1,6 @@
 <h1>We are FortiCodes, a passionate and professional development team specialized in cybersecurity, custom software solutions, and AI integrations. Driven by innovation. Backed by security. Focused on results.</h1>
 <p>We focus primarily on open-source software development, but we also have some production code actively running and powering real systems.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Languages and Tools We Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
