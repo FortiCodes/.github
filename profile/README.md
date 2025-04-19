@@ -24,5 +24,5 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="">Currently, we are working on GNDarkTheme (GNDT), an extension designed to darken backgrounds for a more comfortable browsing experience.</a></li>
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Where to find us</h2>
 <p><a target="_blank" href="https://www.instagram.com/forticodes" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
